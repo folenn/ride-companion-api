@@ -1,0 +1,8 @@
+{
+	"AUTH": {
+		"USER_WITH_SUCH_EMAIL_NOT_FOUND": "Користувача з імейлом %s не знайдено"
+	},
+	"USER": {
+		"USER_NOT_FOUND": "Такого користувача не існує."
+	}
+}
