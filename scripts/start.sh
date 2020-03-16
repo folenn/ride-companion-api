@@ -10,7 +10,7 @@ if [ "${NODE_ENV}" == 'production' ]; then
   node ./dist/server.js;
 elif [ "${NODE_ENV}" == 'test' ]; then
   ./node_modules/.bin/env-cmd -f test.env jest -i;
-  echo 'HUJ';
+  echo 'test env';
 else
     ./node_modules/.bin/nodemon ./src/server.ts --inspect=0.0.0.0:9229;
 fi
