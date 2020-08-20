@@ -30,7 +30,7 @@
     "@types/progress-stream": "^2.0.0",
     "@types/supertest": "^2.0.8",
     "axios": "^0.19.2",
-    "bcrypt": "^4.0.1",
+    "bcrypt": "^5.0.0",
     "class-transformer": "^0.2.3",
     "cookie-parser": "~1.4.5",
     "cors": "^2.8.5",
